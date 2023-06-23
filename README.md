@@ -1,5 +1,5 @@
 # EnergenieJS Class
-2022 SCQ Devices - EA1NK
+2023 SCQ Devices - EA1NK
 
 ## Node JS Energenie PM2Lan JS class
 
