@@ -1,7 +1,7 @@
 # EnergenieJS Class
 2023 SCQ Devices - EA1NK
 
-## Node JS Energenie PM2Lan JS class
+## NodeJS Energenie PM2Lan JS class
 
 You need to declare in your .env file socket ip address, username and password
 
